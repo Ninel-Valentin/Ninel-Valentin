@@ -19,7 +19,7 @@
 					</li>
 					<br />
 					<li style="position:relative; left:2rem;">
-						&nbsp; Studying at &nbsp;
+						&nbsp; 🎓: Studying at &nbsp;
 						<a href="https://unitbv.ro/">
 							<img style="filter:drop-shadow(0 0 1px white);" align="center" src="https://unitbv.ro/images/footerlogo.PNG" height="25" />
 							Transylvania University
@@ -128,7 +128,7 @@
 			1+
 		</td>
 		<td>
-			<img src="https://skillicons.dev/icons?i=aws,docker,dotnet,dynamodb&perline=10"/>
+			<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,dotnet,dynamodb&perline=10"/>
 		</td>
 		</tr>
 		<tr>
@@ -144,6 +144,7 @@
 		</tr>
 	</tbody>
 </table>
+<p>🎨🖌 Icons from <a href="https://github.com/tandpfun/skill-icons#readme">skill-icons</a></p>
 <h3 align="left">
 	More info:
 </h3>
