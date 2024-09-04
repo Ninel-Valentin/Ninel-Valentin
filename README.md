@@ -101,21 +101,7 @@
 			3+
 		</td>
 		<td>
-	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-		<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="nodejs" width="80"/>
-	</a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-		<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="80" />
-	</a>
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-		<img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" alt="html5" width="80" />
-	</a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-		<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" alt="css3" width="80" />
-	</a>
-	<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-		<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" />
-	</a>
+			<img src="https://skillicons.dev/icons?i=react,nextjs,babel,express,flask,redis,azure,postman&perline=10"/>
 		</td>
 		</tr>
 	<tr>
@@ -126,18 +112,7 @@
 			3+
 		</td>
 		<td>
-	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" />
-	</a>
-	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" />
-	</a>
-	<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" />
-	</a>
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" />
-	</a>
+			<img src="https://skillicons.dev/icons?i=py,java,c,cs,cpp&perline=10"/>
 		</td>
 		</tr>
 		<tr>
@@ -145,15 +120,7 @@
 			2+
 		</td>
 		<td>
-	<a href="https://www.java.com" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" />
-	</a>
-	<a href="https://unity.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="80" />
-	</a>
-		<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-		<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="80" />
-	</a>
+			<img src="https://skillicons.dev/icons?i=blender,unity&perline=10"/>
 		</td>
 		</tr>
 		<tr>
@@ -161,12 +128,7 @@
 			1+
 		</td>
 		<td>
-	<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="80" />
-	</a>
-	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-		<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="react" width="80" />
-	</a>
+			<img src="https://skillicons.dev/icons?i=aws,docker,dotnet,dynamodb&perline=10"/>
 		</td>
 		</tr>
 		<tr>
@@ -177,30 +139,7 @@
 			0-1
 		</td>
 		<td>
-	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" />
-	</a>
-	<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-		<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="80" />
-	</a>
-	<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" />
-	</a>
-	<a href="https://postman.com" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" />
-	</a>
-	<a href="https://www.python.org" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" />
-	</a>
-	<a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="80" />
-	</a>
-	<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="80" />
-	</a>
-	<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" />
-	</a>
+			<img src="https://skillicons.dev/icons?i=react,nextjs,babel,express,flask,redis,azure,postman&perline=10"/>
 		</td>
 		</tr>
 	</tbody>
