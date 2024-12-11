@@ -52,7 +52,7 @@
 					<br />
 					<li>
 						&nbsp;&nbsp;👨‍💻: All of my projects and more info available on
-						<a href="https://ninel-valentin.github.io/portofolio/public/index">
+						<a href="https://ninel-valentin.com/">
 							my portofolio
 						</a>
 						website
