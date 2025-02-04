@@ -31,13 +31,13 @@
 					<li>
 						<div style="display:flex; align-items:center;">
 							&nbsp; 💼: Currently working at&nbsp;
-							<a href="https://www.channelsight.com/">
-								<img style="height:3rem;" src="https://assets-global.website-files.com/64248e7ed5f30d6effe57d5d/645bc6cf55c0bc11098dd759_Navbar%20logo_Word%20Mark%20Dark%20Grey%20Large%20140px%20x%20480px_Word%20Mark%20Dark%20Grey%20Large%20140px%20x%20480px-p-500.png" />
+							<a href="[https://www.channelsight.com/](https://www.siemens.com/global/en.html)">
+								<img style="height:3rem;" src="https://www.siemens.com/assets/static/logo.2f518675.svg" />
 							</a>
 							&nbsp; as a &nbsp;
 							<i>
 								<b>
-									Web Crawler Developer
+									Intern
 								</b>
 							</i>
 						</div>
