@@ -31,13 +31,13 @@
 					<li>
 						<div style="display:flex; align-items:center;">
 							&nbsp; 💼: Currently working at&nbsp;
-							<a href="[https://www.channelsight.com/](https://www.siemens.com/global/en.html)">
-								<img style="height:3rem;" src="https://www.siemens.com/assets/static/logo.2f518675.svg" />
+							<a href="https://www.siemens.com/ro-ro/">
+								<img style="height:1rem;" src="https://images.sw.cdn.siemens.com/logo/logo-white.svg" />
 							</a>
-							&nbsp; as a &nbsp;
+							&nbsp; as an &nbsp;
 							<i>
 								<b>
-									Intern
+									Data research Intern
 								</b>
 							</i>
 						</div>
@@ -94,16 +94,24 @@
 	</thead>
 	<tbody>
 	<tr>
-		<td>
+		<td rowspan="2">
 			Middle-Senior
 		</td>
 		<td>
-			3+
+			5+
 		</td>
 		<td>
-			<img src="https://skillicons.dev/icons?i=react,nextjs,babel,express,flask,redis,azure,postman&perline=10"/>
+			<img src="https://skillicons.dev/icons?i=c,cpp&perline=10"/>
 		</td>
-		</tr>
+	</tr>
+	<tr>
+		<td>
+			4+
+		</td>
+		<td>
+			<img src="https://skillicons.dev/icons?i=py,java,cs&perline=10"/>
+		</td>
+	</tr>
 	<tr>
 		<td rowspan="3">
 			Middle
@@ -112,10 +120,10 @@
 			3+
 		</td>
 		<td>
-			<img src="https://skillicons.dev/icons?i=py,java,c,cs,cpp&perline=10"/>
+			<img src="https://skillicons.dev/icons?i=js,html,css,nodejs,mysql&perline=10"/>
 		</td>
-		</tr>
-		<tr>
+	</tr>
+	<tr>
 		<td>
 			2+
 		</td>
@@ -130,8 +138,8 @@
 		<td>
 			<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,dotnet,dynamodb&perline=10"/>
 		</td>
-		</tr>
-		<tr>
+	</tr>
+	<tr>
 		<td>
 			Junior
 		</td>
@@ -141,7 +149,7 @@
 		<td>
 			<img src="https://skillicons.dev/icons?i=react,nextjs,babel,express,flask,redis,azure,postman&perline=10"/>
 		</td>
-		</tr>
+	</tr>
 	</tbody>
 </table>
 <p>🎨🖌 Icons from <a href="https://github.com/tandpfun/skill-icons#readme">skill-icons</a></p>
